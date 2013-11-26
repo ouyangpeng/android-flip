@@ -1,3 +1,5 @@
+
+Aphid FlipView是一个能够实现Flipboard翻页效果的UI组件。
 android-flip
 ============
 
